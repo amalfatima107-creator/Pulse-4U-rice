@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=conky -c /home/amal/.config/conky/pulse4u.conf
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Pulse4U Conky
+Comment=Pulse4U HUD widget
