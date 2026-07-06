@@ -57,4 +57,18 @@ pulse-4u-rice/
 
 TouchDesigner does not run natively on Linux. This project runs it through Proton, and the wallpaper is played back as a recorded video loop rather than live, since a live wallpaper setup wasn't reliable enough for daily use.
 
+If using TD file:
+To experience flare's response, turn on node "audioDev2" Active field to **ON**!
+<img width="178" height="145" alt="image" src="https://github.com/user-attachments/assets/64f8e815-0fd6-4c50-8238-7e6a11f18ff6" />
+<img width="516" height="383" alt="image" src="https://github.com/user-attachments/assets/946f69d3-e7a8-49ff-aceb-05d5ff6471e6" />
+
+Play a song and watch it respond.
+Suggestion: We will meet again by Fresca (The flare loves this song)
+
+For mic, activate "audioDev1" node the same way (it's below audioDev2)
+
+The Pleiades stars activate when you move the cursor around a certain position, goodluck finding it!
+
+
+
 Built by Amal.
